@@ -1,0 +1,28 @@
+h1{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+}
+
+.tituloAires{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+table{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.bold{
+    font-size: 25px;
+    font-weight: 600;
+}
